@@ -1,0 +1,418 @@
+precio,ubicacion,tamanio,latitud,longitud
+8000," BOLAÑOS,  Felipe Pescador, Cuauhtémoc",30,19.454,-99.12
+16000," Huitzilopochtli Lte 14 Mz 19,  Adolfo Ruiz Cortines, Coyoacán",35,19.32,-99.15
+9000," Lucerna 65,  Juárez, Cuauhtémoc",8,19.43,-99.15
+18000," Montecito 38,  Nápoles, Benito Juárez",40,19.394,-99.17
+7500," Petén,  Narvarte Oriente, Benito Juárez",12,19.387,-99.15
+10000," av 412 272,  San Juan de Aragón, Gustavo A. Madero",21,19.465,-99.06
+16000," calzada vallejo 1657,  Ampliación Progreso Nacional, Gustavo A. Madero",80,19.52,-99.16
+29500," Avenida Thiers ,  Anzures, Miguel Hidalgo",51,19.436,-99.18
+11000," Marcelino Dávalos 53,  Algarín, Cuauhtémoc",163,19.405,-99.13
+36200," Guillermo González Camarena 111,  Santa Fe Centro, Alvaro Obregón",79,19.367,-99.26
+12000," Bolivar 1025 B,  Niños Héroes, Benito Juárez",33,19.385,-99.14
+20000," JM castorena 46,  El Yaqui, Cuajimalpa de Morelos",55,19.364,-99.28
+12000," INSURGENTES,  Insurgentes Mixcoac, Benito Juárez",60,19.371,-99.18
+26500," MAGDALENA 112 ,  Del Valle Norte, Benito Juárez",28,19.395,-99.17
+39000," Justo sierra 56,  Centro , Cuauhtémoc",57,19.435,-99.12
+35000," Prolongación Paseo de la Reforma ,  Cruz Manca, Cuajimalpa de Morelos",51,19.36,-99.26
+16000," Huitzilopochtli Lte 14 Mz 19 340,  Acueducto de Guadalupe, Gustavo A. Madero",35,19.32,-99.15
+23500," Del carmen coyoacan,  Del Carmen, Coyoacán",505,19.353,-99.16
+23000," MONTECITO 38,  Nápoles, Benito Juárez",31,19.394,-99.17
+32014," Avenida INSURGENTES,  Tabacalera, Cuauhtémoc",44,19.436,-99.15
+20500," Avenida Hidalgo,  Del Carmen, Coyoacán",18,19.35,-99.15
+32017," Insurgentes norte,  Tabacalera, Cuauhtémoc",442,19.436,-99.15
+17000," Ignacio Zaragoza 181,  Jardín Balbuena, Venustiano Carranza",55,19.424,-99.1
+15000," Calz. Ignacio Zaragoza 224,  Santa Cruz Aviación, Venustiano Carranza",60,19.422,-99.09
+20000," AVENIDA AQUILES SERDAN 400,  Nextengo, Azcapotzalco",24,19.473,-99.18
+25517," Calle Lago Alberto,  Anáhuac I Sección, Miguel Hidalgo",28,19.439,-99.18
+24000," AHUEHUETES #118, LINDAVISTA, GUSTAVO A MADERO, CDMX,  San Bartolo Atepehuacan, Gustavo A. Madero",65,19.489,-99.12
+7000," Av. San Jeronimo,  Ampliación Potrerillo, La Magdalena Contreras",56,19.305,-99.25
+12000," LA VIGA ,  Militar Marte, Iztacalco",40,19.382,-99.12
+8000," Av san jeronimo,  Pueblo Nuevo Alto, La Magdalena Contreras",40,19.304,-99.25
+11000," Calz Taxqueña ,  San Francisco CulhuacAn Barrio , Coyoacán",401,19.339,-99.11
+6500," Miramontes,  Avante, Coyoacán",12,19.332,-99.13
+30000," Tampico ,  Roma, Cuauhtémoc",32,19.419,-99.17
+4840," delicias,  Centro , Cuauhtémoc",2,19.428,-99.14
+11902," Verónica Anzures,  Verónica Anzures, Miguel Hidalgo",36,19.436,-99.17
+2500," Libertad 21,  San Miguel Chapultepec, Miguel Hidalgo",408,19.203,-99.56
+18000," Selva 19,  Insurgentes Cuicuilco, Coyoacán",44,19.304,-99.18
+15000," Revillagigedo 84,  Colonia Centro, Cuauhtémoc",50,19.429,-99.14
+12000," AVENIDA LAS FLORES,  Flor de María, Alvaro Obregón",22,19.35,-99.2
+6500," Miramontes,  Avante, Coyoacán",14,19.332,-99.13
+14300," Insurgentes Sur,  Santa Úrsula Xitla, Tlalpan",28,19.282,-99.17
+35370," Plaza Villa San Jacinto 16, local no. 11,  San Ángel, Alvaro Obregón",33,19.344,-99.19
+31236," av montevideo 363 colonia lindavista,  Lindavista, Gustavo A. Madero",312,19.492,-99.13
+8000," C. Juan E. Hernández y Davalos 119,  Algarín, Cuauhtémoc",111,19.405,-99.13
+14800," Noche de paz 14,  Granjas Navidad, Cuajimalpa de Morelos",38,19.372,-99.27
+12000," Francisco Petrarca ,  Polanco, Miguel Hidalgo",15,19.434,-99.18
+12000," Tihuatlán No. 10 ,  San Jerónimo Aculco, Alvaro Obregón",12,19.317,-99.22
+40000," Schiller, 152,  Polanco, Miguel Hidalgo",45,19.435,-99.18
+26650," RIO NAZAS 67,  Cuauhtémoc, Cuauhtémoc",412,19.432,-99.16
+22800," Insurgentes Sur,  Santa Úrsula Xitla, Tlalpan",56,19.282,-99.17
+8900," AVENIDA JOSE MARIA CASTORENA ,  José Maria Castorena, Cuajimalpa de Morelos",52,19.36,-99.28
+27000," Parques Plaza Calle Lago Alberto 442,  Anáhuac I Sección, Miguel Hidalgo",292,19.439,-99.17
+6500," Miramontes,  Avante, Coyoacán",18,19.332,-99.13
+39000," Hipódromo Condesa,  Condesa, Cuauhtémoc",33,19.408,-99.18
+39000," Hipódromo Condesa,  Hipódromo Condesa, Cuauhtémoc",45,19.408,-99.18
+13000," Corregidora 115 B, Barrio Caramaguey,  Barrio de Caramagüey, Tlalpan",51,19.29,-99.18
+8000," Avenida Miguel Ángel de Quevedo 353,  Romero de Terreros, Coyoacán",15,19.345,-99.17
+6300," Petén Planta Baja,  Narvarte Oriente, Benito Juárez",10,19.387,-99.15
+15000," Alberto Braniff , Aviación Civil, Venustiano Carranza,  Ciudad de México, CDMX,  Aviación Civil, Venustiano Carranza",80,19.415,-99.07
+25000," MONTECITO 38 ,  Nápoles, Benito Juárez",40,19.395,-99.17
+15000," Puente de Peredo 11,  Centro , Cuauhtémoc",28,19.429,-99.14
+17500," NAPOLES 60,  Juárez, Cuauhtémoc",25,19.426,-99.15
+29000," Puebla,  Roma Norte, Cuauhtémoc",44,19.42,-99.17
+18000," Prado Norte,  Lomas de Chapultepec, Miguel Hidalgo",62,19.427,-99.21
+4000," Rtno. 29 Fray Servando Teresa de Mier 159,  Jardín Balbuena, Venustiano Carranza",14,19.415,-99.09
+17000," Leibnitz,  Anzures, Miguel Hidalgo",19,19.428,-99.17
+29500," José Marti,  Escandón I Sección, Miguel Hidalgo",75,19.402,-99.17
+4500," Azahares 14,  Santa Maria Insurgentes, Cuauhtémoc",20,19.46,-99.14
+17000," Leibnitz,  Anzures, Miguel Hidalgo",19,19.428,-99.17
+12000," AV. TLAHUAC ,  San Andrés Tomatlán, Iztapalapa",50,19.328,-99.1
+23500," Xicotencatl del carmen coyoacan,  Del Carmen, Coyoacán",501,19.353,-99.16
+3984," Álvaro Obregón 19,  San Juan Tepeximilpa, Tlalpan",21,19.269,-99.19
+7800," DR. ENRIQUE GLEZ MARTINEZ  91,  Santa María la Ribera, Cuauhtémoc",15,19.445,-99.15
+30000," Florencia ,  Juárez, Cuauhtémoc",22,19.424,-99.16
+4500," Penalistas 41,  Apatlaco, Iztapalapa",13,19.375,-99.12
+25000," Río Nazas 72,  Cuauhtémoc, Cuauhtémoc",32,19.431,-99.16
+5700," Eje 2 Poniente Gabriel Mancera,  Del Valle Sur, Benito Juárez",8,19.375,-99.16
+8000," MONTECITO 38,  Nápoles, Benito Juárez",8,19.395,-99.17
+11200," reforma 296,  Juárez, Cuauhtémoc",12,19.427,-99.16
+18000," NAPOLES ,  Juárez, Cuauhtémoc",452,19.426,-99.15
+12000," Av. Rio Consulado 1500,  Vallejo, Gustavo A. Madero",451,19.465,-99.13
+10000," AVENIDA AQUILES SERDAN 400,  Nextengo, Azcapotzalco",42,19.473,-99.18
+42900," VICENTE SUAREZ,  Condesa, Cuauhtémoc",33,19.412,-99.17
+13500," Calle 1 No. ,  Francisco I Madero, Miguel Hidalgo",40,19.447,-99.2
+34200," Av de las Palmas,  Lomas de Chapultepec, Miguel Hidalgo",76,19.428,-99.21
+12500," Corregidora 115 A-2, Barrio Caramaguey, Tlalpan,  Barrio de Caramagüey, Tlalpan",50,19.29,-99.18
+4000," Avenida Oceanía 150,  Romero Rubio, Venustiano Carranza",20,19.44,-99.09
+35000," Masaryk 100,  Polanco, Miguel Hidalgo",65,19.432,-99.2
+11500," Concepción Bésitegui,  Narvarte Oriente, Benito Juárez",28,19.385,-99.14
+37500," Prol. Paseo de la Reforma  Col. Cruz Manca Santa Fe, Lomas de Santa Fe, Contadero, ,  Santa Fe Cuajimalpa, Cuajimalpa de Morelos",451,19.419,-99.21
+33411," insurgentes sur 859,  Nápoles, Benito Juárez",501,19.388,-99.17
+27000," NAPOLES 60,  Juárez, Cuauhtémoc",45,19.426,-99.15
+14400," Cuauhtemoc 1233,  Santa Cruz Atoyac, Benito Juárez",361,19.373,-99.16
+6000," Anaxagoras ,  Narvarte Oriente, Benito Juárez",121,19.387,-99.15
+10000," Norte  Colonia Pensador Mexicano Alcaldía Venustiano Carranza,  Pensador Mexicano, Venustiano Carranza",65,19.444,-99.08
+22500," GUERRERO ,  Guerrero, Cuauhtémoc",60,19.443,-99.14
+16567," Miguel Ángel de Quevedo,  Parque San Andrés, Coyoacán",16,19.342,-99.14
+39318," Calle Lago Alberto ,  Anáhuac I Sección, Miguel Hidalgo",40,19.439,-99.18
+11000," Carretera Mexico Toluca  al 5000,  Santa Fe Cuajimalpa, Cuajimalpa de Morelos",12,19.366,-99.27
+26517," Calle Lago Alberto,  Anáhuac I Sección, Miguel Hidalgo",27,19.439,-99.18
+15483," Miguel Ángel de Quevedo,  Parque San Andrés, Coyoacán",16,19.342,-99.14
+18018," Calle Alfonso Herrera ,  San Rafael, Cuauhtémoc",13,19.439,-99.15
+20921," Miguel Ángel de Quevedo,  Parque San Andrés, Coyoacán",20,19.342,-99.14
+39000," Av. Ejército Nacional,  Polanco, Miguel Hidalgo",44,19.437,-99.18
+27018," Calle Lago Alberto,  Anáhuac I Sección, Miguel Hidalgo",29,19.439,-99.18
+18017," Calle Alfonso Herrera,  San Rafael, Cuauhtémoc",14,19.44,-99.16
+25000," Av. Lomas de Sotelo,  Lomas de Sotelo, Miguel Hidalgo",68,19.447,-99.21
+12000," RAUDAL,  Los Alpes, Alvaro Obregón",45,19.356,-99.21
+32000," Tabacalera ,  Tabacalera, Cuauhtémoc",44,19.436,-99.15
+21017," Calle Alfonso Herrera ,  San Rafael, Cuauhtémoc",13,19.439,-99.15
+45000," Renta Local Dentro DE Centro Comercial Guadalupe INN,  Guadalupe Inn, Alvaro Obregón",69,19.354,-99.18
+40000," Castillo de Chapultepec,  Lomas de Chapultepec, Miguel Hidalgo",40,19.42,-99.18
+20000," Gral. Pedro Antonio de los Santos ,  San Miguel Chapultepec, Miguel Hidalgo",30,19.412,-99.18
+13000," PORTALES ORIENTE,  Portales Oriente, Benito Juárez",12,19.366,-99.13
+16000," Lateral Autopista México - Toluca,  Santa Fe Cuajimalpa, Cuajimalpa de Morelos",7,19.358,-99.27
+30000," Local en Renta, Excelente Ubicación.,  San Jerónimo Lídice, La Magdalena Contreras",50,19.325,-99.22
+19398," Montecito,  Nápoles, Benito Juárez",28,19.394,-99.17
+500," Periodista ,  Periodista, Miguel Hidalgo",403,19.448,-99.21
+8000," AVENIDA JOSE MARIA CASTORENA 425,  Cuajimalpa, Cuajimalpa de Morelos",30,19.36,-99.28
+22000," INSURGENTES,  Insurgentes Mixcoac, Benito Juárez",53,19.372,-99.18
+12000," CIUDAD DE MEXICO,  Esperanza, Cuauhtémoc",471,19.421,-99.12
+23000," GELATI 33,  San Miguel Chapultepec, Miguel Hidalgo",35,19.411,-99.18
+14000," Moliere,  Polanco, Miguel Hidalgo",231,19.43,-99.2
+12425," av montevideo 363,  Lindavista, Gustavo A. Madero",122,19.492,-99.13
+28000," SANTA MARIA LA RIBERA,  Santa María la Ribera, Cuauhtémoc",45,19.446,-99.15
+24000," Xicotencatl,  Del Carmen, Coyoacán",501,19.353,-99.15
+15900," Santa Lucia 881,  Colina del Sur, Alvaro Obregón",41,19.368,-99.22
+10350," Av. Henry Ford ,  Bondojito, Gustavo A. Madero",34,19.466,-99.1
+5000," Huitzilopochtli Lte 14 Mz 19 340,  Adolfo Ruiz Cortines, Coyoacán",11,19.32,-99.15
+20000," Av. Puente de Piedra,  Toriello Guerra, Tlalpan",40,19.295,-99.16
+13500," Calzada México - Xochimilco,  San Lorenzo Huipulco, Tlalpan",141,19.291,-99.14
+4500," Calle Violeta 10,  Barrio San Diego, Xochimilco",251,19.262,-99.1
+18000," Campos Elíseos 526,  Polanco, Miguel Hidalgo",3,19.431,-99.2
+30000," Lomas de Chapultepec,  Lomas de Chapultepec, Miguel Hidalgo",301,19.424,-99.21
+8800," Sacalum,  Lomas de Padierna, Tlalpan",65,19.293,-99.22
+10000,"  SAN MIGUEL TEOTONGO,  San Miguel Teotongo, Iztapalapa",40,19.343,-98.98
+16000," Golfo de San Lorenzo No. 41 ,  Tacuba, Miguel Hidalgo",61,19.457,-99.19
+14875," Calzada La Viga 641, Local C,  San Francisco Xicaltongo, Iztacalco",34,19.396,-99.12
+16500," Verónica Anzures,  Verónica Anzures, Miguel Hidalgo",58,19.436,-99.17
+12500," Av. Santa Rosa 36, Local 4,  Ex-Hacienda Coapa, Coyoacán",21,19.309,-99.13
+17000," Carmona y Valle,  Doctores, Cuauhtémoc",31,19.424,-99.15
+28000," AV. Revolución, Mixcoac,  Mixcoac, Benito Juárez",48,19.371,-99.18
+16000," INSURGENTES 2085-B,  Guadalupe Inn, Alvaro Obregón",15,19.347,-99.18
+15000," HIPODROMO,  Hipódromo, Cuauhtémoc",10,19.409,-99.17
+5500," Calle 73 L187,  Jacarandas, Iztapalapa",37,19.361,-99.13
+22000," Olivar de los Padres,  Olivar de los Padres, Alvaro Obregón",505,19.338,-99.22
+44829," Blvd. Manuel Ávila Camacho,  Polanco, Miguel Hidalgo",49,19.433,-99.2
+30000," Local en Renta, Excelente Ubicación.,  San Jerónimo Lídice, La Magdalena Contreras",50,19.327,-99.22
+8590," Renacimiento s/n ,  San Juan Tlihuaca, Azcapotzalco",50,19.487,-99.2
+29500," Av. Thiers,  Anzures, Miguel Hidalgo",51,19.433,-99.17
+8500," Avenida Tlahuac  ,  Doce de Diciembre, Iztapalapa",45,19.309,-99.06
+5000,"  Aquiles Serdán,  Aquiles Serdán, Venustiano Carranza",35,19.446,-99.09
+11000," Calzada de las Bombas No. 326,  Los Cedros, Coyoacán",17,19.311,-99.11
+14000," Jose t cuellar , colonia obrera,  Obrera, Cuauhtémoc",55,19.414,-99.13
+40000," Roma norte,  Roma Norte, Cuauhtémoc",55,19.416,-99.15
+30000," Insurgentes Sur al 400,  Roma Sur, Cuauhtémoc",40,19.407,-99.16
+8000," Manuel Payno 128,  Obrera, Cuauhtémoc",45,19.413,-99.13
+15000," FABRICA DE CARTUCHOS 9,  Lomas del Chamizal, Cuajimalpa de Morelos",281,19.387,-99.26
+16000," Calzada Ermita Iztapalapa,  Santiago Acahualtepec, Iztapalapa",401,19.35,-99.01
+10000," Av. Plutarco Elías Calles , Banjidal, Iztapalapa,  Iztapalapa, Ciudad de México",25,19.361,-99.13
+32000," insurgentes,  Tabacalera, Cuauhtémoc",44,19.436,-99.15
+35000,"  Del Valle Centro, Benito Juárez,  Del Valle Sur, Benito Juárez",68,19.379,-99.16
+25000," LOMAS DE CHAPULTEPEC ,  Lomas de Chapultepec, Miguel Hidalgo",351,19.424,-99.21
+11500," Auriga 8,  El Prado, Iztapalapa",35,19.358,-99.13
+41940," Av. Santa Fe,  Santa Fe Cuajimalpa, Cuajimalpa de Morelos",45,19.365,-99.26
+34000," Eje 10 Sur al 600,  Jardines del Pedregal, Alvaro Obregón",50,19.33,-99.2
+18000," Canal de Miramontes,  Los Girasoles, Coyoacán",35,19.31,-99.12
+14399," Ave. Cuauhtémoc 1233,  Santa Cruz Atoyac, Benito Juárez",361,19.368,-99.16
+23454," Calvario,  Tlalpan Centro, Tlalpan",522,19.288,-99.17
+27000," Emilio Castelar,  Polanco, Miguel Hidalgo",18,19.431,-99.2
+6000," PASTORES,  Granjas Navidad, Cuajimalpa de Morelos",151,19.373,-99.28
+5000," DOCTOR VERTIZ ,  Narvarte Poniente, Benito Juárez",10,19.422,-99.14
+16000," Manuel José Othón 141,  Obrera, Cuauhtémoc",65,19.414,-99.13
+19500," Cuauhtémoc ,  Narvarte Poniente, Benito Juárez",10,19.396,-99.15
+7500," Camino a Santa Teresa,  Fuentes del Pedregal, Tlalpan",24,19.31,-99.22
+22000," Periférico Sur 2112,  Los Alpes, Alvaro Obregón",55,19.357,-99.19
+19200," Manzanillo,  Roma Norte, Cuauhtémoc",69,19.411,-99.16
+5000," Pitagoras,  Del Valle Centro, Benito Juárez",8,19.382,-99.15
+40000," Anatole France,  Polanco, Miguel Hidalgo",70,19.433,-99.19
+13000," TORRE MEDICA METROPOLITANA, CALLE TAMPICO #,  Condesa, Cuauhtémoc",21,19.42,-99.17
+8600," ZACATECAS ,  Roma Norte, Cuauhtémoc",361,19.414,-99.16
+8500," Calzada de las Bombas, 847,  Cafetales, Coyoacán",23,19.309,-99.1
+12000," FELIX CUEVAS,  Del Valle Sur, Benito Juárez",45,19.372,-99.17
+19500," Los Juárez ,  San José Insurgentes, Benito Juárez",72,19.37,-99.18
+40000," Boulevard Manuel Ávila Camacho no. 50,  Lomas de Chapultepec, Miguel Hidalgo",60,19.43,-99.2
+12800," Clavijero 40,  Esperanza, Cuauhtémoc",46,19.42,-99.12
+14000," Presa Valsequillo,  Irrigación, Miguel Hidalgo",42,19.441,-99.2
+34000," Eje 10 Sur al 600,  Jardines del Pedregal, Alvaro Obregón",50,19.33,-99.2
+9900," Renta de Consultorio Médico  en Escandón,  Escandón I Sección, Miguel Hidalgo",19,19.402,-99.18
+15000," Gabriel Mancera,  Del Valle Centro, Benito Juárez",23,19.399,-99.16
+7000," Xola 964,  Narvarte Poniente, Benito Juárez",15,19.396,-99.15
+15000,"  Calz. Santa Anita #, Iztacalco,  Piedad Narvarte, Benito Juárez",54,19.398,-99.13
+14800," Prolongación Paseo de La Reforma ,  Santa Fe, Alvaro Obregón",18,19.37,-99.26
+28500," Av. del Peñón,  Moctezuma, Venustiano Carranza",30,19.439,-99.09
+12000," Pípila,  Guadalupe del Moral, Iztapalapa",55,19.369,-99.07
+9000," miramar ,  Miravalle, Benito Juárez",23,19.36,-99.14
+12500," Lago Victoria 16,  Granada, Miguel Hidalgo",30,19.441,-99.19
+38000," Del Valle Centro, Benito Juárez,  Del Valle Sur, Benito Juárez",57,19.379,-99.16
+38000," GRANADITAS,  Centro , Cuauhtémoc",42,19.443,-99.12
+14828," Av. Manuel González,  San Simón Tolnahuac, Cuauhtémoc",35,19.455,-99.14
+30000," Prado Norte,  Lomas de Chapultepec, Miguel Hidalgo",60,19.427,-99.21
+7800," Dr. Lucio,  Doctores, Cuauhtémoc",20,19.415,-99.15
+45000," Mexicali ,  Hipódromo Condesa, Cuauhtémoc",40,19.408,-99.17
+8500," Calz. Chabacano 52, Vista Alegre, Cuauhtémoc, 06860 Ciudad de México, CDMX,  Vista Alegre, Cuauhtémoc",16,19.408,-99.13
+4200," Calzada del Peñon 238, Revolución, 15460, Venustiano Carranza, México,  Revolución, Venustiano Carranza",111,19.44,-99.1
+32000," Avenida Thiers 269, Anzures, Ciudad De México,  Anzures, Miguel Hidalgo",51,19.436,-99.18
+25000," SANTA APOLONIA,  Santa Apolonia, Azcapotzalco",66,19.475,-99.19
+18000," Anillo Perif. Canal de Garay,  Lomas de San Lorenzo, Iztapalapa",36,19.325,-99.07
+32003," Avenida INSURGENTES ,  Tabacalera, Cuauhtémoc",44,19.436,-99.15
+18000," Canarias 928,  Portales Norte, Benito Juárez",77,19.361,-99.14
+23100," Calle Balboa, 1002,  Portales Sur, Benito Juárez",78,19.36,-99.14
+4500," Tiziano 21,  Mixcoac, Benito Juárez",121,19.373,-99.18
+40000," Local Comercia pie de Calle,  Obrera, Cuauhtémoc",40,19.419,-99.14
+17000," Av Santa Lucia 1533,  Colina del Sur, Alvaro Obregón",47,19.366,-99.23
+8000," Auriga 8,  El Prado, Iztapalapa",20,19.358,-99.13
+1500," Local_ Torre Blu_salvador Agraz 73,  Las Tinajas, Cuajimalpa de Morelos",16,19.358,-99.27
+6000," Luis de la Rosa 43,  Constitución de La República, Gustavo A. Madero",23,19.481,-99.1
+15000," Camino a Santa Teresa,  Fuentes del Pedregal, Tlalpan",56,19.31,-99.22
+4100," Mar Mediterráneo #21,  Tacuba, Miguel Hidalgo",185,19.459,-99.18
+8000," Topacio 6,  Centro , Cuauhtémoc",45,19.425,-99.12
+12000," Pehuame esquina tecacalo Mz13 Lote13  Adolfo Ruiz Cortínes  Coyoacán, Ciudad de México, México,  Adolfo Ruiz Cortines, Coyoacán",80,19.321,-99.14
+30000," Av Secretaria de Marina 522,  Lomas del Chamizal, Cuajimalpa de Morelos",50,19.39,-99.26
+30000," Eugenia 1033,  Del Valle Centro, Benito Juárez",70,19.385,-99.16
+9500," Sinaloa,  Peñón de los Baños, Venustiano Carranza",33,19.437,-99.08
+41601," Altamirano ""San Cosme"",  San Rafael, Cuauhtémoc",1,19.438,-99.16
+12000," Parque San Andres, Coyoacan, Ciudad de Mexico,  Parque San Andrés, Coyoacán",60,19.345,-99.14
+11500," PRIVADA EZEQUIEL ORDOÑES,  Copilco El Alto, Coyoacán",45,19.33,-99.17
+40180," Bernardo Quintana 34,  Santa Fe, Alvaro Obregón",80,19.374,-99.24
+32000,"  Avenida INSURGENTES,  Tabacalera, Cuauhtémoc",44,19.436,-99.15
+17000," Periferico sur ,  Tizapan, Alvaro Obregón",402,19.325,-99.21
+4500," Jose Caramillo,  Hogar y Redención, Alvaro Obregón",14,19.371,-99.21
+4236," Álvaro Obregón 19 ,  San Juan Tepeximilpa, Tlalpan",23,19.269,-99.19
+12500," Insurgentes sur,  Santa Úrsula Xitla, Tlalpan",401,19.273,-99.16
+12000," Local Comercial en Renta. Plutarco Elias Calles, San Andres Tetepilco, Iztapalapa,  San Andrés Tetepilco, Iztapalapa",50,19.368,-99.13
+23715," Calvario,  Tlalpan Centro, Tlalpan",522,19.287,-99.17
+36000," Leibnitz,  Anzures, Miguel Hidalgo",54,19.428,-99.17
+7500," Golfo de California   6 Local D, Colonia Tacuba, C.p. 11411,  Tacuba, Miguel Hidalgo",42,19.456,-99.18
+5000," JOSEFA ORTIZ DE DMINGUEZ ,  Barrio La Guadalupita, Xochimilco",24,19.265,-99.1
+8000," Calle Ote. 168,  Moctezuma, Venustiano Carranza",50,19.428,-99.09
+28000," Avenida Revolución 977,  Mixcoac, Benito Juárez",48,19.371,-99.18
+30000," Emerson 200,  Polanco, Miguel Hidalgo",151,19.434,-99.18
+32018," Avenida INSURGENTES,  Tabacalera, Cuauhtémoc",44,19.436,-99.15
+34000," Avenida SAN Jeronimo 630,  Jardines del Pedregal, Alvaro Obregón",502,19.328,-99.21
+8500," Bolivares 294,  Pensador Mexicano, Venustiano Carranza",22,19.443,-99.08
+33220," Plaza Villa San Jacinto,  San Ángel, Alvaro Obregón",311,19.344,-99.19
+20000," Cuauhtémoc ,  Narvarte Poniente, Benito Juárez",10,19.396,-99.15
+31747," Av. Fortuna,  Magdalena de las Salinas, Gustavo A. Madero",37,19.481,-99.13
+8500," Jose Caramillo,  Hogar y Redención, Alvaro Obregón",35,19.371,-99.21
+12000," ENRIQUE REBSAMEN ,  Narvarte Poniente, Benito Juárez",19,19.393,-99.15
+4000," Lago Tana,  Torre Blanca, Miguel Hidalgo",13,19.273,-99.08
+30000," Lateral Autopista Mexico Toluca,  Santa Fe Cuajimalpa, Cuajimalpa de Morelos",47,19.373,-99.26
+22000," PERPETUA,  San José Insurgentes, Benito Juárez",40,19.366,-99.18
+9100," LÁZARO CÁRDENAS 545,  Narvarte Poniente, Benito Juárez",24,19.39,-99.15
+13000," Mesones,  Centro Histórico de la Cdad. de México, Cuauhtémoc",20,19.428,-99.13
+24350," Av. del Peñón,  Moctezuma, Venustiano Carranza",24,19.439,-99.09
+7500," Cascada,  Banjidal, Iztapalapa",18,19.36,-99.13
+14000," 5 de febrero,  Obrera, Cuauhtémoc",42,19.418,-99.13
+9000," CALZ DE LA RONDA S/N,  Ex Hipódromo de Peralvillo, Cuauhtémoc",301,19.453,-99.13
+25000," Miramontes,  Coapa, Coyoacán",15,19.318,-99.13
+25000," Noche de paz 14,  Granjas Navidad, Cuajimalpa de Morelos",74,19.372,-99.27
+18000," Campos Elíseos No. 526,  Polanco, Miguel Hidalgo",14,19.431,-99.2
+14000," avenida revolución 2015,  La Otra Banda, Coyoacán",22,19.335,-99.19
+18922," Calvario,  Tlalpan Centro, Tlalpan",422,19.287,-99.17
+34000," LAGUNA DE TERMINOS 270,  Anáhuac I Sección, Miguel Hidalgo",42,19.443,-99.18
+14000,"  AV ERMITA IZTAPALAPA #,  Ampliación San Miguel, Iztapalapa",78,19.35,-99.07
+15000," Santa Ana,  Ex-Ejido de San Francisco CulhuacAn, Coyoacán",50,19.329,-99.12
+12500," Ramos Millan ,  Américas Unidas, Benito Juárez",45,19.383,-99.14
+8340," Av. Henry Ford ,  Bondojito, Gustavo A. Madero",24,19.466,-99.1
+23000," Av. baja california,  Condesa, Cuauhtémoc",141,19.406,-99.17
+11600," CALZ. XOCHIMILCO,  San Lorenzo Huipulco, Tlalpan",42,19.297,-99.15
+15000," Playa Pie de la Cuesta al 300,  Reforma Iztaccihuatl Sur, Iztacalco",28,19.376,-99.12
+20880," Av. del Peñón,  Moctezuma, Venustiano Carranza",21,19.439,-99.09
+20000," AV REVOLUCION,  Santa María Nonoalco, Benito Juárez",26,19.38,-99.18
+45000," BLVD. MANUEL AVILA CAMACHO,  Lomas de Chapultepec, Miguel Hidalgo",45,19.43,-99.2
+15000," Tehuantepec 52,  Roma Sur, Cuauhtémoc",13,19.405,-99.15
+450," Avenida Insurgentes,  Juárez, Cuauhtémoc",66,19.429,-99.16
+7656," Canal de Miramontes,  Los Ciruelos, Coyoacán",6,19.322,-99.13
+8500," Periferico Sur,  Pedregal de Carrasco, Coyoacán",42,19.302,-99.16
+6500," Bokobá 200,  Pedregal de San Nicolás, Tlalpan",30,19.292,-99.23
+25000," Avenida Paseo de las Palmas,  Lomas de Chapultepec, Miguel Hidalgo",271,19.426,-99.22
+8000," LA JOYITA, GUSTAVO A. MADERO,  La Joyita, Gustavo A. Madero",60,19.462,-99.11
+15911," Manzanillo,  Roma Norte, Cuauhtémoc",69,19.41,-99.16
+39300," Anáhuac, Miguel HIdalgo, CDMX,  Anáhuac I Sección, Miguel Hidalgo",44,19.441,-99.18
+10000," Sur,  América, Miguel Hidalgo",28,19.401,-99.2
+8000," Mocambo al 400,  Militar Marte, Iztacalco",15,19.382,-99.12
+12000," Magdalena Atlazolpa 31  Iztapalapa, ,  Magdalena Atlazolpa, Iztapalapa",76,19.374,-99.11
+16000," Av. Santa Rosa 36, Local 1,  Ex-Hacienda Coapa, Coyoacán",34,19.309,-99.13
+15000," Juan Salvador Agraz,  Santa Fe Cuajimalpa, Cuajimalpa de Morelos",16,19.36,-99.28
+11000," Pocito,  Popotla, Miguel Hidalgo",80,19.454,-99.17
+42000," roma sur,  Roma Sur, Cuauhtémoc",70,19.405,-99.16
+27000," Av. Horacio ,,  Polanco, Miguel Hidalgo",40,19.432,-99.18
+20000," carretera picacho ajusco 884,  Miguel Hidalgo 3A Sección, Tlalpan",67,19.282,-99.21
+800," Av. Tlahuac 5295,  Los Olivos, Tláhuac",62,19.304,-99.06
+26000," BLVD. MANUEL AVILA CAMACHO,  Lomas de Chapultepec, Miguel Hidalgo",30,19.43,-99.2
+5000," San Felipe de Jesús,  San Felipe de Jesús, Gustavo A. Madero",22,19.496,-99.07
+8800," PESTALOZZI Y DIAGONAL SAN ANTONIO,  Narvarte Poniente, Benito Juárez",8,19.394,-99.15
+32998," Circuito Interior Melchor Ocampo,  Cuauhtémoc, Cuauhtémoc",47,19.43,-99.17
+36000," LEIBNITZ,  Anzures, Miguel Hidalgo",54,19.428,-99.17
+20000," carretera picacho ajusco 884,  Miguel Hidalgo 3A Sección, Tlalpan",67,19.282,-99.21
+780," Insrugentes sur al 4200,  Santa Úrsula Xitla, Tlalpan",12,19.282,-99.17
+10000," Ave. Río Consulado 1361,  Peralvillo, Cuauhtémoc",16,19.464,-99.13
+32000," LA MERCED ,  Zona Centro, Venustiano Carranza",55,19.425,-99.12
+15000," Jose Maria Roa Barcenas,  Obrera, Cuauhtémoc",60,19.411,-99.13
+18750," Carretera México - Toluca 5780,  Santa Fe Centro, Contadero",75,19.352,-99.29
+29500," S/N,  Anzures, Miguel Hidalgo",542,19.432,-99.17
+13000," 5 de Febrero 462 Loc. 10  Algarín, Cuauhtémoc, 06880 Ciudad de México.,  Algarín, Cuauhtémoc",25,19.405,-99.13
+34000," Eje 10 Sur al 600,  Jardines del Pedregal, Alvaro Obregón",50,19.33,-99.2
+41857," Av. del Peñón,  Moctezuma, Venustiano Carranza",44,19.439,-99.09
+35000," Ejercito Nacional ,  Verónica Anzures, Miguel Hidalgo",65,19.434,-99.17
+5000," San Felipe de Jesús,  San Felipe de Jesús, Gustavo A. Madero",241,19.496,-99.07
+35000," Av Division del Norte 2617 2,  Del Carmen, Coyoacán",74,19.354,-99.15
+20000," Av. de las Culturas,  El Rosario, Azcapotzalco",72,19.509,-99.2
+2500," 5 de Febrero 469,  Algarín, Cuauhtémoc",1,19.405,-99.13
+9000," Av. Tlahuac No. Mz. 4 Lote 14, planta Alta, Ojo de Agua, Tláhuac, 13450 Ciudad de México, CDMX, México,  Tláhuac, Ciudad de México",80,19.287,-99.01
+30000," Av. Doctor Vértiz,  Narvarte Poniente, Benito Juárez",50,19.385,-99.15
+7500," Loma de Vista Hermosa,  Lomas de Vista Hermosa, Cuajimalpa de Morelos",25,19.377,-99.26
+11000," Calle 13,  Ampliación Progreso Nacional, Gustavo A. Madero",35,19.516,-99.16
+23000," Carretera Picacho Ajusco 884,  Héroes de Padierna, Tlalpan",67,19.282,-99.21
+7500," Sudermann ,  Polanco, Miguel Hidalgo",12,19.433,-99.18
+39000," Río Lerma ,  Cuauhtémoc, Cuauhtémoc",60,19.435,-99.14
+12900," Soria 70,  Álamos, Benito Juárez",60,19.398,-99.14
+34000," Avenida SAN Jeronimo 630,  Jardines del Pedregal, Alvaro Obregón",50,19.328,-99.21
+6500," Dr. Joublanc ,  Tacubaya, Miguel Hidalgo",34,19.402,-99.18
+39999," Prolongación Paseo de la Reforma #, Santa Fe Cuajimalpa, Cuajimalpa de Morelos,  Santa Fe Cuajimalpa, Cuajimalpa de Morelos",52,19.361,-99.26
+30000," Prado Norte 100,  Lomas de Chapultepec, Miguel Hidalgo",60,19.427,-99.2
+11500," Auriga 8,  El Prado, Iztapalapa",35,19.358,-99.13
+5500," Manzana 80, lote18, colonia Los Angeles,  Los Angeles, Iztapalapa",25,19.349,-99.07
+3000," Av. Tlahuac ,  San Andrés Tomatlán, Iztapalapa",12,19.328,-99.1
+16000," Cantera 121 - 2,  Villa Gustavo A. Madero, Gustavo A. Madero",65,19.487,-99.11
+16000," Cuauhtémoc ,  Narvarte Poniente, Benito Juárez",10,19.396,-99.15
+17000," San Jeronimo lidice,  San Jerónimo Lídice, La Magdalena Contreras",40,19.324,-99.21
+15000," AÑIL 667 LOCAL 3,  Granjas México, Iztacalco",76,19.401,-99.09
+15000," Isla Comercial en Prado Norte,  Lomas de Chapultepec, Miguel Hidalgo",12,19.427,-99.21
+18000," Coahuila,  Roma Norte, Cuauhtémoc",12,19.411,-99.16
+37752," Av. de los Insurgentes Sur,  Insurgentes Mixcoac, Benito Juárez",34,19.368,-99.18
+36000," Guillermo Gonzalez Camarena,  Santa Fe Cuajimalpa, Cuajimalpa de Morelos",78,19.366,-99.26
+15000," Insurgentes Sur,  Santa Úrsula Xitla, Tlalpan",301,19.282,-99.17
+2240," Mariano Escobedo,  Anzures, Miguel Hidalgo",64,19.429,-99.18
+30000," AV. Division del Norte,  San Diego Churubusco, Coyoacán",80,19.354,-99.15
+15000," 5 de febrero,  Obrera, Cuauhtémoc",26,19.418,-99.13
+11000," Av. Pdte. Plutarco Elías Calles,  Nueva Santa Anita, Iztacalco",41,19.398,-99.12
+9000," Av. Hidalgo 197,  Santa Anita, Iztacalco",41,19.401,-99.11
+8000," romero de terreros,  Romero de Terreros, Coyoacán",6,19.341,-99.17
+35000," ISABEL LA CATOLICA 1,  Algarín, Cuauhtémoc",57,19.417,-99.13
+7500," Camino a Santa Teresa ,  Fuentes del Pedregal, Tlalpan",20,19.311,-99.22
+35000," Alcantarilla ,  Alcantarilla, Alvaro Obregón",80,19.34,-99.24
+8000," Francisco Olaguibel 82,  Obrera, Cuauhtémoc",27,19.411,-99.14
+7500," INSURGENTES SUR,  Santa Úrsula Xitla, Tlalpan",121,19.273,-99.16
+5000," Calzada México Xochimilco # 62,  San Lorenzo Huipulco, Tlalpan",13,19.295,-99.15
+12850," Oriente 11 A Lote 34 mz 34,  Isidro Fabela, Tlalpan",45,19.27,-99.18
+12000," Bernardo Couto,  Algarín, Cuauhtémoc",23,19.405,-99.13
+7000," Moctezuma 2,  Guerrero, Cuauhtémoc",25,19.442,-99.13
+6800," Eje 2 Poniente Gabriel Mancera 1302 Consultorio 4,  Del Valle Sur, Benito Juárez",16,19.371,-99.16
+40000," DIAMANTE SANTA FE ,  Santa Fe Cuajimalpa, Cuajimalpa de Morelos",45,19.36,-99.27
+10000," Av Emilio Carranza,  Moctezuma, Venustiano Carranza",34,19.431,-99.09
+10000," Av. 16 de Septiembre  s/n. Contadero, Cuajimalpa de Morelos, 05500 Ciudad de México, CDMX, México,  Cuajimalpa de Morelos, Ciudad de México",25,19.347,-99.29
+6000," Norte 67 No. 2932 Local 1,  Obrero Popular, Azcapotzalco",12,19.463,-99.17
+20000," Prado sur,  Lomas de Chapultepec, Miguel Hidalgo",26,19.426,-99.2
+19500," avenida revolución 2015,  La Otra Banda, Coyoacán",39,19.335,-99.19
+34000," Eje 10 Sur al 600,  Jardines del Pedregal, Alvaro Obregón",50,19.33,-99.2
+6500," division del norte 19,  Belisario Domínguez, Tlalpan",50,19.305,-99.13
+13000," Doctor Vertiz,  Doctores, Cuauhtémoc",70,19.414,-99.14
+26500," Lago Alberto,  Anáhuac I Sección, Miguel Hidalgo",292,19.438,-99.17
+32000," BLVD. MANUEL AVILA CAMACHO,  Lomas de Chapultepec, Miguel Hidalgo",31,19.43,-99.2
+35000," Prado Norte,  Lomas de Chapultepec, Miguel Hidalgo",30,19.427,-99.2
+27008," Calle Lago Alberto ,  Anáhuac I Sección, Miguel Hidalgo",27,19.439,-99.18
+38073," Altamirano ""San Cosme"",  San Rafael, Cuauhtémoc",54,19.438,-99.16
+23100," Balboa 1002, Local C y D, Colonia Portales, C.p. 03300, Alcaldía Benito Juárez,  Portales Norte, Benito Juárez",78,19.36,-99.14
+39900," FERNANDO DE ALVA,  Obrera, Cuauhtémoc",40,19.413,-99.13
+2490," Periférico,  Polanco I Sección, Polanco",491,19.432,-99.2
+44624," Av. de los Insurgentes Sur,  Insurgentes Mixcoac, Benito Juárez",56,19.368,-99.18
+26000," Calzada de las Águilas,  Ampliación las Águilas, Alvaro Obregón",50,19.353,-99.21
+11000," Mar Mediterraneo 29  , Tacuba , 11410 Miguel Hidalgo, Ciudad de México, México,  Tacuba, Miguel Hidalgo",501,19.459,-99.18
+10000," Municipio Libre 83  , Banjidal , 09450 Iztapalapa, Ciudad de México, México,  Banjidal, Iztapalapa",31,19.366,-99.13
+11500," Agustín Delgado 271,  Tránsito, Cuauhtémoc",351,19.413,-99.13
+27000," LEIBNITZ,  Anzures, Miguel Hidalgo",41,19.428,-99.17
+8500," Calzada de la Ronda,  Peralvillo, Cuauhtémoc,  Peralvillo, Cuauhtémoc",30,19.454,-99.13
+7500," Isabel la Catolica,  Niños Héroes, Benito Juárez",121,19.386,-99.14
+20000," SANTA APOLONIA,  Santa Apolonia, Azcapotzalco",56,19.475,-99.19
+40000," ISABEL LA CATOLICA 1,  Algarín, Cuauhtémoc",68,19.417,-99.13
+12200," Golfo de Gabes,  Tacuba, Miguel Hidalgo",27,19.455,-99.18
+12900," MONTERREY 381,  Roma Sur, Cuauhtémoc",45,19.403,-99.16
+10000," SANTA APOLONIA,  Santa Apolonia, Azcapotzalco",31,19.475,-99.19
+40000," Castillo de Chapultepec,  Lomas de Chapultepec, Miguel Hidalgo",40,19.42,-99.18
+15000," Av. San Bernabé S/N,  San Jerónimo Lídice, La Magdalena Contreras",20,19.329,-99.22
+600," Paseo de la Reforma,  Lomas Altas, Miguel Hidalgo",301,19.393,-99.23
+15000," NORTE 164,  Pensador Mexicano, Venustiano Carranza",63,19.444,-99.08
+7000," Av. Constituyentes 757,  Belém de las Flores, Alvaro Obregón",16,19.397,-99.21
+7000," Cerro Tlapacoyan ,  Copilco Universidad, Coyoacán",14,19.335,-99.17
+7500," Renta Local Ideal Oficina O Consultorio O MAS  EN Cuajimalpa,  Cuajimalpa, Cuajimalpa de Morelos",22,19.356,-99.29
+8000," Almeja 44,  Venustiano Carranza, Ciudad de México",28,19.425,-99.06
+13000," Quintana Roo 127,  Roma Sur, Cuauhtémoc",20,19.404,-99.17
+10000," Calzada de los Gallos 23,  Plutarco Elías Calles, Miguel Hidalgo",18,19.456,-99.16
+6000," Chemax 100,  Lomas de Padierna, Tlalpan",20,19.292,-99.21
+35000," Prado Norte,  Lomas de Chapultepec, Miguel Hidalgo",30,19.427,-99.2
+18500," Av. Coyoacán ,  Acacias, Benito Juárez",30,19.361,-99.17
+1500," Ermita Iztapalapa ,  Reforma Política, Iztapalapa",10,19.344,-99.02
+7000," Locales en Renta, Lagunilla, Cdmx,  Centro , Cuauhtémoc",15,19.442,-99.13
+12500," Quinta Cerrada Cañaverales ,  Magisterial, Tlalpan",35,19.295,-99.11
+22000," Las Huertas,  Actipan, Benito Juárez",45,19.368,-99.17
+7500," Av. Muyuguarda 294,  San Lorenzo La Cebada, Xochimilco",231,19.285,-99.11
+16000," Lago Belgrano ,  Ampliación Granada, Miguel Hidalgo",25,19.442,-99.19
+35000," Masaryk 100,  Polanco, Miguel Hidalgo",65,19.432,-99.2
+36922," Renta DE Local EN Corportivo  EN Lomas Altas,  Lomas Altas, Miguel Hidalgo",59,19.398,-99.23
+3000," León de los Aldamas,  San Felipe de Jesús, Gustavo A. Madero",9,19.499,-99.07
+7000," Pisco 683,  Lindavista Sur, Gustavo A. Madero",27,19.491,-99.13
+12000," Av. Stim 39 ,5m2,  Bosques de las Lomas, Cuajimalpa de Morelos",5,19.393,-99.26
+15000," FABRICA DE CARTUCHOS 9,  Bosques de las Lomas, Cuajimalpa de Morelos",28,19.387,-99.26
+17800," Xotepingo,  Ciudad Jardín, Coyoacán",20,19.328,-99.13
+10000," Calzada Santa Anita 88 ,c-5,  Viaducto Piedad, Iztacalco",5,19.399,-99.13
+7000," Huitzilopochtli Lte 14 Mz 19,  Adolfo Ruiz Cortines, Coyoacán",16,19.32,-99.15
+33220," Plaza San Jacinto,  San Ángel, Alvaro Obregón",32,19.345,-99.19
+9100," Eje Central Lázaro Cárdenas 545,  Narvarte Oriente, Benito Juárez",26,19.396,-99.14
+300," Prolongacion Paseo de la Reforma 413,  Santa Fe, Alvaro Obregón",80,19.377,-99.25
+26000," Avenida San Jerónimo 630,  Jardines del Pedregal, Alvaro Obregón",58,19.328,-99.21
+10680," Xotepingo,  Ciudad Jardín, Coyoacán",12,19.328,-99.13
+16400," Av. Portal de las Flores 1 ,65.60,  Central de Abasto, Iztapalapa",65,19.381,-99.07
